@@ -616,7 +616,7 @@ express-js-server-side-framework-emutua23/
 ├── package-lock.json       # Locked dependency versions
 ├── README.md               # This file
 ├── server.js               # Main application file
-└── server.js.backup        # Backup of original starter code
+
 ```
 
 ---
